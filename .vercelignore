@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+stock_fixed/venv/
+*.ipynb
+train_model.py
